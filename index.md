@@ -37,3 +37,6 @@ This [IEEE ITSC 2020](https://ieee-itsc2020.org/) workshop took place on Septemb
 - **Prof. Arnaud de La Fortelle**, MINES ParisTech
 - **Prof. Christoph Stiller**, Karlsruhe Institute of Technology (KIT) & FZI
 
+## Acknowledgments
+
+The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program [SPP 1835 - Cooperative Interacting Automobiles](https://www.coincar.de/).
